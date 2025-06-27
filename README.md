@@ -8,7 +8,7 @@ This project develops a machine learning coupled agent-based model (ML-ABM) to s
 
 ## Figure
 
-![Model Diagram](figures/ml-abm.jpg)
+![Model Diagram](figures/ML-ABM.jpg)
 
 *Figure: Conceptual diagram of the ML-ABM for crop failure simulation.*
 
