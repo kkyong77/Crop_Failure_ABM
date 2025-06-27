@@ -14,5 +14,12 @@ This project develops a machine learning coupled agent-based model (ML-ABM) to s
 *ML-based crop choice model*
 ![Random forest model prediction](figures/rf.jpg)
 
----
+
+*Upating the crop choice*
+![ML-ABM](figures/flow_chart.jpg)
+
+
+*Use the logistic regress model*
+![ML-ABM](figures/logistic_model.jpg)
+
 
