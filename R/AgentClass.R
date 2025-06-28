@@ -30,7 +30,7 @@ Agent <- R6::R6Class("Agent",
                          self$precip_ts <- precip_df
                        },
                        
-                       logistic_prob = function(precip, beta_0 = 1, beta_1 = -0.1, b_p = 250) {
+                       logistic_prob = function(precip, beta_0, beta_1, b_p) {
                          logit <- beta_0 + beta_1 * (precip - b_p)
                          prob <- 1 / (1 + exp(-logit))
                          return(prob)
