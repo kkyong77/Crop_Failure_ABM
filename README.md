@@ -1,10 +1,10 @@
-# Crop_Failure_ABM
+# Crop_ML_ABM
 
-Develop ML-ABM model to simulate the planting abandonment.
+Develop ML-ABM model to simulate the prevented planting.
 
 ## Overview
 
-This project develops a machine learning coupled agent-based model (ML-ABM) to simulate crop planting abandonment dynamics.
+This project develops a machine learning coupled agent-based model (ML-ABM) to simulate crop prevented planting dynamics.
 
 *Conceptual diagram of the ML-ABM for crop failure simulation.*
 ![Model Diagram](figures/ML_ABM.jpg)
