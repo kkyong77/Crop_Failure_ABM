@@ -26,3 +26,6 @@ This project develops a machine learning coupled agent-based model (ML-ABM) to s
 ## Key datasets
 
 Link:https://zenodo.org/uploads/17795964
+*weekly precipiation across farm fields*
+*weekly climate moisture (P-PET) across farm fields*
+*weekly soil moisture (p50) across farm fields*
